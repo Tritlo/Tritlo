@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome! 👋
+I'm a PhD candidate, currently working on program synthesis, compiler plugins and the GHC compiler. I've also worked on numerous backends in Python and Haskell, with some frontend JS and TypeScript experience as well. Feel free to get in touch on Twitter (@tritlo) if you want to collaborate!
 
 <!--
 **Tritlo/Tritlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
